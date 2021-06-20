@@ -3,7 +3,7 @@
 <!-- leave a STAR, if you like it ! -->
 
 <!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
+![Profile views](https://gpvc.arturio.dev/DarkkyGH)
 
 <!-- Intro  -->
 <h3 align="center">
