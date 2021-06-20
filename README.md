@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @DarkkyGH
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- https://github.com/ShahriarShafin/ -->
+<!-- April 15, 2021 -->
+<!-- leave a STAR, if you like it ! -->
 
-<!---
-DarkkyGH/DarkkyGH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Profile Views Counter -->
+![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
+
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hello World!, I am
+                <b><a target="_blank" href="https://shahriarshafin.me/">Darkky</a></b>
+        </samp>
+</h3>
+<br>
+</details>
+<br>
+
+<!-- Footer -->
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "discord.gg/darkky!"
+    </p>
+</samp>
